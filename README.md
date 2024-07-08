@@ -11,7 +11,7 @@ Este es un proyecto desarrollado con Laravel 9-10 y Laravel Nova. El objetivo de
 ## Requerimientos
 
 - Laravel 9-10
-- Laravel Nova (Correo: nelson.g.chicas.g@gmail.com / Licencia: CfA1k8vA1rIFxgPEPAjehv4vvBfFqMHQU8YZLsDrDth9c3lLDy)
+- Laravel Nova 
 - SQLite
 
 ## Instalación
@@ -27,8 +27,6 @@ Este es un proyecto desarrollado con Laravel 9-10 y Laravel Nova. El objetivo de
 
    ```bash
    composer install
-   npm install
-   npm run dev
    ```
 
 3. **Configurar la base de datos:**
